@@ -1,0 +1,37 @@
+{
+  "page": {
+    "title": "Shopping Cart",
+    "breadcrumb": {
+      "home": "Home",
+      "cart": "Shopping Cart"
+    }
+  },
+  "cart": {
+    "header": {
+      "product": "Product",
+      "price": "Price",
+      "quantity": "Quantity",
+      "subtotal": "Subtotal"
+    },
+    "item": {
+      "color": "Color",
+      "size": "Size",
+      "remove": "Remove"
+    },
+    "coupon": {
+      "placeholder": "Coupon Code",
+      "apply": "Apply Coupon",
+      "clear": "Clear Shopping Cart"
+    }
+  },
+  "summary": {
+    "title": "Order Summary",
+    "items": "Items",
+    "subtotal": "Sub Total",
+    "shipping": "Shipping",
+    "taxes": "Taxes",
+    "discount": "Coupon Discount",
+    "total": "Total",
+    "checkout": "Proceed to Checkout"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "page": {
+    "title": "My Account",
+    "breadcrumb": {
+      "home": "Home",
+      "account": "My Account"
+    }
+  },
+  "tabs": {
+    "personalInformation": "Personal Information",
+    "myOrders": "My Orders",
+    "manageAddress": "Manage Address",
+    "paymentMethod": "Payment Methods",
+    "passwordManager": "Password Manager",
+    "logout": "Logout"
+  },
+  "personalInformation": {
+    "firstName": "First Name *",
+    "lastName": "Last Name *",
+    "email": "Email *",
+    "phone": "Phone Number *",
+    "gender": "Gender *",
+    "male": "Male",
+    "female": "Female",
+    "update": "Save Changes",
+    "placeholder": {
+      "firstName": "Enter your first name",
+      "lastName": "Enter your last name",
+      "email": "Enter your email",
+      "phone": "Enter your phone number"
+    }
+  },
+  "orders": {
+    "title": "Orders ({{count}})",
+    "sortBy": "Sort by:",
+    "all": "All",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "rating": "Rating",
+    "orderId": "Order ID",
+    "totalPayment": "Total Payment",
+    "paymentMethod": "Payment Method",
+    "deliveredDate": "Delivered Date",
+    "color": "Color",
+    "size": "Size",
+    "quantity": "Quantity",
+    "estimatedDeliveryDate": "Estimated Delivery Date",
+    "acceptedMessage": "Your order has been accepted",
+    "trackOrder": "Track Order",
+    "addReview": "Add Review",
+    "viewDetails": "View Details",
+    "cancelOrder": "Cancel Order"
+  },
+"address": {
+    "addNew": "Add New Address",
+    "firstName": "First Name *",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastName": "Last Name *",
+    "lastNamePlaceholder": "Enter your last name",
+    "company": "Company Name (optional)",
+    "country": "Country *",
+    "selectCountry": "Select Country",
+    "street": "Street Address *",
+    "streetPlaceholder": "Enter your street address",
+    "city": "City *",
+    "selectCity": "Select City",
+    "state": "State *",
+    "selectState": "Select State",
+    "zip": "ZIP Code *",
+    "zipPlaceholder": "Enter your ZIP code",
+    "phone": "Phone Number *",
+    "phonePlaceholder": "Enter your phone number",
+    "email": "Email *",
+    "emailPlaceholder": "Enter your email",
+    "addButton": "Add Address",
+    "edit": "Edit",
+    "delete": "Delete",
+    "countries": {
+        "US": "United States",
+        "CA": "Canada"
+    },
+    "states": {
+        "NY": "New York",
+        "CA": "California"
+    },
+    "cities": {
+        "NewYork": "New York",
+        "LosAngeles": "Los Angeles"
+    }
+},
+  "payment": {
+    "addNew": "Add New Credit / Debit Card",
+    "cardHolder": "Card Holder Name *",
+    "cardHolderPlaceholder": "Enter card holder name",
+    "cardNumber": "Card Number *",
+    "cardNumberPlaceholder": "Enter card number",
+    "expiryDate": "Expiry Date *",
+    "cvv": "CVV Code *",
+    "saveCard": "Save card for future payments",
+    "addCard": "Add Card",
+    "delete": "Delete",
+    "linkAccount": "Link Account"
+  },
+  "password": {
+    "current": "Current Password *",
+    "currentPlaceholder": "Enter current password",
+    "new": "New Password *",
+    "newPlaceholder": "Enter new password",
+    "confirm": "Confirm New Password *",
+    "confirmPlaceholder": "Enter confirm new password",
+    "forgot": "Forgot your password?",
+    "update": "Update Password"
+  },
+  "logout": {
+    "title": "Logout",
+    "confirmMessage": "Are you sure you want to log out?",
+    "button": "Yes, Logout"
+  }
+}

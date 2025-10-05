@@ -1,0 +1,25 @@
+{
+  "title": "Sign In",
+  "subtitle": "Please fill your detail to access your account.",
+  "form": {
+    "emailLabel": "Email *",
+    "emailPlaceholder": "Enter Email Address",
+    "passwordLabel": "Password *",
+    "passwordPlaceholder": "Enter Password",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot Password?",
+    "signIn": "Sign In",
+    "signingIn": "Signing In..."
+  },
+  "divider": "or Sign In with",
+  "google": "Sign In With Google",
+  "footer": {
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up"
+  },
+  "testimonial": {
+    "quote": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.\"",
+    "author": "Leslie Alexander",
+    "role": "Fashion Enthusiast"
+  }
+}

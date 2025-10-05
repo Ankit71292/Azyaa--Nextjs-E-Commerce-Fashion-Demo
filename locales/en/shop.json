@@ -1,0 +1,53 @@
+{
+  "page": {
+    "title": "Shop",
+    "breadcrumb": {
+      "home": "Home",
+      "shop": "Shop"
+    }
+  },
+  "filters": {
+    "title": "Filter Options",
+      "category": {
+      "title": "Category",
+      "man": "Men",
+      "woman": "Women",
+      "TShirts": "T-Shirts",
+      "handbags": "Handbags",
+      "jacketsCoats": "Jackets and Coats",
+      "watches": "Watches",
+      "hat": "Hats"
+    },
+    "price": "Price",
+    "color": {
+      "title": "Color",
+      "black": "Black",
+      "grey": "Grey",
+      "brown": "Brown",
+      "red": "Red",
+      "orange": "Orange",
+      "blue": "Blue",
+      "pink": "Pink",
+      "white": "White"
+    },
+    "size": "Size",
+    "filtersButton": "Filters",
+    "activeFilter": "Active Filter:",
+    "clearAll": "Clear All"
+  },
+  "results": {
+    "showing": "Showing {{from}}-{{to}} of {{total}} results"
+  },
+  "sort": {
+    "label": "Sort by:",
+    "default": "Default Sorting",
+    "priceLowHigh": "Price: Low to High",
+    "priceHighLow": "Price: High to Low",
+    "rating": "Rating"
+  },
+  "pagination": {
+    "next": "Next",
+    "prev": "Previous",
+    "ellipsis": "..."
+  }
+}

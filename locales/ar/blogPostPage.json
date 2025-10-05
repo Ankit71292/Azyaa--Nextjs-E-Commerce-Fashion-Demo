@@ -1,0 +1,40 @@
+{
+  "categories": {
+    "fashion": "الموضة",
+    "trends": "الاتجاهات",
+    "style": "الأناقة",
+    "tips": "نصائح",
+    "jackets": "السترات",
+    "coats": "المعاطف",
+    "dresses": "الفساتين",
+    "sweater": "البلوفرات",
+    "accessories": "الإكسسوارات",
+    "jewelry": "المجوهرات"
+  },
+  "pageHeader": {
+    "title": "تفاصيل المدونة",
+    "home": "الرئيسية",
+    "blog": "المدونة"
+  },
+  "author": {
+    "writtenBy": "كتب بواسطة",
+    "minRead": "دقيقة قراءة"
+  },
+  "share": {
+    "shares": "مشاركة"
+  },
+  "alsoRead": {
+    "title": "اقرأ أيضًا :",
+    "link": "أحدث المقالات حول أحدث اتجاهات الموضة"
+  },
+  "sidebar": {
+    "filterByCategories": "تصفية حسب الفئات",
+    "tableOfContent": "جدول المحتويات",
+    "adTitle": "خصم 20% على أحدث صيحات الموضة",
+    "shopNow": "تسوق الآن"
+  },
+  "relatedPosts": {
+    "title": "مقالات ذات صلة",
+    "subtitle": "أحدث المقالات المرتبطة"
+  }
+}

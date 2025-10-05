@@ -1,0 +1,69 @@
+{
+  "home": "الرئيسية",
+  "shop": "المتجر",
+  "women": "نساء",
+  "men": "رجال",
+  "accessories": "إكسسوارات",
+  "about": "معلومات عنا",
+  "contact": "اتصل بنا",
+  "blog": "مدونة",
+  "Pages": "الصفحات",
+  "shopNow": "تسوق الآن",
+
+
+  "pages": {
+    "allPages": "جميع الصفحات",
+    "home": "الرئيسية",
+    "shop": "المتجر",
+    "aboutUs": "معلومات عنا",
+    "contact": "اتصل بنا",
+    "blog": "مدونة",
+    "faq": "الأسئلة الشائعة",
+    "completeProfile": "إكمال الملف الشخصي",
+    "forgotPassword": "نسيت كلمة المرور",
+    "orderComplete": "اكتمل الطلب",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "myAccount": "حسابي",
+    "wishlist": "المفضلة",
+    "cart": "سلة التسوق",
+    "checkout": "إتمام الشراء",
+    "productDetails": "تفاصيل المنتج",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "verifyCode": "التحقق من الرمز",
+    "trackOrder": "تتبع الطلب",
+    "blogDetails": "تفاصيل المدونة"
+  },
+
+  "womenCategories": {
+    "Women": "نساء",
+    "Handbags": "حقائب يد",
+    "Watches": "ساعات",
+    "Sunglasses": "نظارات شمسية",
+    "Hat": "قبعة",
+    "Gloves": "قفازات",
+    "Belts": "أحزمة",
+    "HairAccessories": "إكسسوارات شعر",
+    "latestOffers": "أحدث العروض",
+    "offAccessories": "خصم 15% على الإكسسوارات"
+  },
+
+  "menCategories": {
+    "Men": "رجال",
+    "Ties": "رِباطات عنق",
+    "Belts": "أحزمة",
+    "Wallets": "محافظ",
+    "Hats": "قبعات",
+    "Sunglasses": "نظارات شمسية",
+    "Gloves": "قفازات",
+    "Socks": "جوارب",
+    "latestOffers": "أحدث العروض",
+    "offAccessories": "خصم 15% على الإكسسوارات"
+  },
+
+  "topBanner": {
+    "support": "الدعم: (404) 555-0170",
+    "offer": "اشترك واحصل على خصم 25٪ على أول طلب لك.",
+    "signupNow": "اشترك الآن"
+  }
+}

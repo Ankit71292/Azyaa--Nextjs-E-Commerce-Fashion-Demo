@@ -1,0 +1,26 @@
+{
+  "page" : {
+    "title" : "الطلبات المكتملة",
+    "home" : "الرئيسية"
+   },
+  "orderCompletedTitle": "تم إكمال طلبك!",
+  "orderCompletedMessage": "شكراً لك. تم استلام طلبك.",
+
+  "orderId": "رقم الطلب",
+  "paymentMethod": "طريقة الدفع",
+  "transactionId": "رقم المعاملة",
+  "estimatedDeliveryDate": "تاريخ التوصيل المتوقع",
+  "downloadInvoice": "تحميل الفاتورة",
+
+  "orderDetails": "تفاصيل الطلب",
+  "products": "المنتجات",
+  "subTotal": "المجموع الجزئي",
+
+  "color": "اللون",
+  "size": "المقاس",
+
+  "shipping": "الشحن",
+  "taxes": "الضرائب",
+  "couponDiscount": "خصم الكوبون",
+  "total": "الإجمالي"
+}

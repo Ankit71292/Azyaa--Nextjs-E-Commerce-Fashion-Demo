@@ -1,0 +1,30 @@
+{
+  "footer": {
+    "companyInfo": {
+      "description": "We are an online store specializing in selling clothing, the latest designs related to fashion for men and women, high-quality men's and women's clothing."
+    },
+    "links": {
+      "company": "Company",
+      "aboutUs": "About Us",
+      "blog": "Blog",
+      "careers": "Careers",
+      "contact": "Contact Us",
+      "services": "Services",
+      "customerService": "Customer Service",
+      "myAccount": "My Account",
+      "trackOrder": "Track Your Order",
+      "faqs": "FAQs",
+      "productSupport": "Product Support",
+      "ourInformation": "Our Information",
+      "privacyPolicy": "Privacy Policy",
+      "termsConditions": "Terms & Conditions",
+      "returnPolicy": "Return Policy",
+      "siteMap": "Site Map"
+    },
+    "bottom": {
+      "copyright": "Copyright © 2024 Azyaa. All rights reserved",
+      "language": "English",
+      "currency": "USD"
+    }
+  }
+}

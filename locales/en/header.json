@@ -1,0 +1,68 @@
+{
+  "home": "Home",
+  "shop": "Shop",
+  "women": "Women",
+  "men": "Men",
+  "accessories": "Accessories",
+  "about": "About Us",
+  "contact": "Contact",
+  "blog": "Blog",
+  "Pages": "Pages",
+  "shopNow": "Shop Now",
+
+  "pages": {
+    "allPages": "All Pages",
+    "home": "Home",
+    "shop": "Shop",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "completeProfile": "Complete Profile",
+    "forgotPassword": "Forgot Password",
+    "orderComplete": "Order Complete",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "myAccount": "My Account",
+    "wishlist": "Wishlist",
+    "cart": "Cart",
+    "checkout": "Checkout",
+    "productDetails": "Product Details",
+    "resetPassword": "Reset Password",
+    "verifyCode": "Verify Code",
+    "trackOrder": "Track Order",
+    "blogDetails": "Blog Details"
+  },
+
+  "womenCategories": {
+    "Women": "Women",
+    "Handbags": "Handbags",
+    "Watches": "Watches",
+    "Sunglasses": "Sunglasses",
+    "Hat": "Hat",
+    "Gloves": "Gloves",
+    "Belts": "Belts",
+    "HairAccessories": "Hair Accessories",
+    "latestOffers": "Latest Offers",
+    "offAccessories": "15% Off Accessories"
+  },
+
+  "menCategories": {
+    "Men": "Men",             
+    "Ties": "Ties",
+    "Belts": "Belts",
+    "Wallets": "Wallets",
+    "Hats": "Hats",
+    "Sunglasses": "Sunglasses",
+    "Gloves": "Gloves",
+    "Socks": "Socks",
+    "latestOffers": "Latest Offers",
+    "offAccessories": "15% Off Accessories"
+  },
+
+  "topBanner": {
+    "support": "Support: (404) 555-0170",
+    "offer": "Sign up and GET 25% OFF for your first order.",
+    "signupNow": "Sign up now"
+  }
+}

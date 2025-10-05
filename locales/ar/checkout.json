@@ -1,0 +1,47 @@
+{
+  "pageTitle": "الدفع",
+  "breadcrumbHome": "الرئيسية",
+  "breadcrumbCart": "عربة التسوق",
+  "breadcrumbCheckout": "الدفع",
+
+  "payment": {
+    "selectMethod": "اختر وسيلة الدفع",
+    "paypal": "باي بال",
+    "paypalEmail": "البريد الإلكتروني لباي بال *",
+    "continuePaypal": "متابعة باستخدام باي بال",
+
+    "visa": "بطاقة بنكية",
+    "cardHolder": "اسم حامل البطاقة *",
+    "cardNumber": "رقم البطاقة *",
+    "expiryDate": "تاريخ الانتهاء *",
+    "cvv": "رمز الأمان (CVV) *",
+    "saveCard": "حفظ البطاقة للمدفوعات القادمة",
+    "confirmPayment": "تأكيد الدفع",
+
+    "googlePay": "جوجل باي",
+    "googlePayEmail": "البريد الإلكتروني لجوجل باي *",
+    "continueGooglePay": "متابعة باستخدام جوجل باي",
+
+    "cod": "الدفع عند الاستلام",
+    "fullName": "الاسم الكامل *",
+    "address": "العنوان *",
+    "phoneNumber": "رقم الهاتف *",
+
+    "addNewCard": "إضافة بطاقة جديدة",
+    "addCard": "إضافة البطاقة"
+  },
+
+  "orderSummary": {
+    "title": "ملخص الطلب",
+    "items": "المنتجات",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "taxes": "الضرائب",
+    "coupon": "خصم الكوبون",
+    "total": "الإجمالي"
+  },
+
+  "buttons": {
+    "confirmPayment": "تأكيد الدفع"
+  }
+}

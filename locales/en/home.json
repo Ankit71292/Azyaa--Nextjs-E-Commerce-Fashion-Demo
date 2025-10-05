@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "saleBadge": "50% Off Summer Mega Sale",
+    "title": "Step Out in Style: Your Fashion Destination",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+    "shopNow": "Shop Now"
+  },
+  "features": {
+    "freeShippingTitle": "Free Shipping",
+    "freeShippingDesc": "Free shipping on orders over $180",
+    "paymentTitle": "Flexible Payment",
+    "paymentDesc": "Multiple secure payment options",
+    "supportTitle": "24/7 Support",
+    "supportDesc": "We’re here for you all week long"
+  },
+  "categories": {
+    "women": {
+      "items": "2500+ Items",
+      "title": "Women",
+      "list": [
+        "Blazers",
+        "T-Shirts and Blouses",
+        "Dresses",
+        "Jackets & Coats",
+        "Jeans",
+        "Knit",
+        "Sarees"
+      ]
+    },
+    "men": {
+      "items": "1500+ Items",
+      "title": "Men",
+      "list": [
+        "Blazers",
+        "T-Shirts and Shirts",
+        "Jackets & Coats",
+        "Jeans"
+      ]
+    },
+    "accessories": {
+      "title": "Accessories",
+      "subtitle": "For Accessories",
+      "list": [
+        "Handbags",
+        "Watches",
+        "Sunglasses",
+        "Hat"
+      ]
+    }
+  },
+  "products": {
+    "ourProducts": "Our Products",
+    "topSeller": "Top Seller",
+    "all": "All",
+    "women": "Women",
+    "men": "Men",
+    "accessories": "Accessories"
+  },
+  "offer": {
+    "limitedTime": "Limited Time Offer",
+    "title": "25% Off All Fashion Favorites – Limited Time Only!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore."
+  },
+  "todayDeals": {
+    "subtitle": "Today’s Deals",
+    "title": "Best Daily Deals",
+    "discount": "25% Off",
+    "category": "Dress",
+    "shopNow": "Shop Now"
+  },
+  "collection": {
+    "men": {
+      "discount": "Flat 25% Off",
+      "title": "Latest Men’s Collection",
+      "desc": "Discover our latest range of men’s fashion",
+      "explore": "Explore Now"
+    },
+    "women": {
+      "discount": "Flat 25% Off",
+      "title": "Latest Women’s Fashion Trends",
+      "desc": "Explore collection of stylish women’s wear",
+      "shopNow": "Shop Now"
+    }
+  },
+  "instagram": {
+    "subtitle": "Follow Us",
+    "title": "Follow Us on Instagram"
+  },
+  "testimonial": {
+    "subtitle": "Testimonials",
+    "title": "What Our Customers Say"
+  },
+  "blog": {
+    "subtitle": "News & Blog",
+    "title": "Our Latest News & Articles"
+  },
+  "faq": {
+    "subtitle": "FAQ",
+    "title": "Questions? You’ll Find Answers Here."
+  },
+  "newsletter": {
+    "subtitle": "Newsletter",
+    "title": "Subscribe to Our Newsletter for the Latest Collections",
+    "desc": "Stay updated with our latest news, announcements, and articles.",
+    "placeholder": "Enter your email",
+    "subscribe": "Subscribe"
+  }
+}

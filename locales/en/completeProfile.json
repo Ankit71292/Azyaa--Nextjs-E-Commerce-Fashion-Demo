@@ -1,0 +1,38 @@
+{
+  "success": {
+    "title": "Profile Completed Successfully!",
+    "message": "Welcome to Clothing! You will be redirected to the dashboard..."
+  },
+  "form": {
+    "title": "Complete Your Profile",
+    "subtitle": "Don’t worry, only you can see your personal data.",
+    "photo": {
+      "label": "Profile Photo (Optional)",
+      "drag": "Drag a photo",
+      "browse": "Browse"
+    },
+    "phone": {
+      "label": "Phone Number *",
+      "placeholder": "Enter phone number"
+    },
+    "gender": {
+      "label": "Gender *",
+      "placeholder": "Select",
+      "options": {
+        "male": "Male",
+        "female": "Female",
+        "other": "Other",
+        "prefer-not-to-say": "Prefer not to say"
+      }
+    },
+    "button": {
+      "default": "Complete Profile",
+      "loading": "Completing Profile..."
+    }
+  },
+  "testimonial": {
+    "quote": "\"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.\"",
+    "author": "Leslie Alexander",
+    "role": "Fashion Enthusiast"
+  }
+}

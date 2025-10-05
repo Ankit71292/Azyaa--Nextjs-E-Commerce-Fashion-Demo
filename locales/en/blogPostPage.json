@@ -1,0 +1,40 @@
+{
+  "categories": {
+    "fashion": "Fashion",
+    "trends": "Trends",
+    "style": "Style",
+    "tips": "Tips",
+    "jackets": "Jackets",
+    "coats": "Coats",
+    "dresses": "Dresses",
+    "sweater": "Sweater",
+    "accessories": "Accessories",
+    "jewelry": "Jewelry"
+  },
+  "pageHeader": {
+    "title": "Blog Details",
+    "home": "Home",
+    "blog": "Blog"
+  },
+  "author": {
+    "writtenBy": "Written by",
+    "minRead": "min read"
+  },
+  "share": {
+    "shares": "SHARES"
+  },
+  "alsoRead": {
+    "title": "Also Read :",
+    "link": "Latest Reads for Latest Fashion Trends"
+  },
+  "sidebar": {
+    "filterByCategories": "Filter by Categories",
+    "tableOfContent": "Table of Content",
+    "adTitle": "20% Off Latest Fashion",
+    "shopNow": "Shop Now"
+  },
+  "relatedPosts": {
+    "title": "Related Blogs",
+    "subtitle": "Latest Related Blogs"
+  }
+}

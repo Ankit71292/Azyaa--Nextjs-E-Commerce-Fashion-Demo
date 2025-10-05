@@ -1,0 +1,42 @@
+{
+  "page": {
+    "title": "About Us",
+    "breadcrumb": {
+      "home": "Home",
+      "about": "About Us"
+    }
+  },
+  "ourStory": {
+    "title": "Our Story",
+    "subtitle": "Crafted with care : premium materials, thoughtful design",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex",
+    "ceoName": "Jenny Alexander",
+    "ceoRole": "Chief Executive Officer"
+  },
+  "stats": {
+    "customers": "Happy Customers",
+    "satisfied": "Satisfied",
+    "stores": "Stores",
+    "years": "Years of Experience",
+    "awards": "Awards"
+  },
+  "productQuality": {
+    "title": "Our Product Quality",
+    "subtitle": "We make things comfortable, beautiful, and elegant",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "features": {
+      "cotton": {
+        "title": "100% Cotton",
+        "desc": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium"
+      },
+      "breathable": {
+        "title": "Breathable Fabric",
+        "desc": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam"
+      }
+    }
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet our team"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "signUpTitle": "إنشاء حساب",
+  "signUpDescription": "املأ بياناتك بالأسفل أو سجل باستخدام حسابك على وسائل التواصل.",
+
+  "firstName": "الاسم الأول *",
+  "lastName": "اسم العائلة *",
+  "email": "البريد الإلكتروني *",
+  "password": "كلمة المرور *",
+
+  "firstNamePlaceholder": "أدخل الاسم الأول",
+  "lastNamePlaceholder": "أدخل اسم العائلة",
+  "emailPlaceholder": "أدخل البريد الإلكتروني",
+  "passwordPlaceholder": "أدخل كلمة المرور",
+
+  "termsAgreement": "أوافق على",
+  "termsAndConditions": "الشروط والأحكام",
+  "privacyPolicy": "سياسة الخصوصية",
+
+  "signUpButton": "إنشاء حساب",
+  "creatingAccount": "جارٍ إنشاء الحساب...",
+
+  "orSignUpWith": "أو قم بإنشاء حساب باستخدام",
+  "signUpWithGoogle": "إنشاء حساب باستخدام جوجل",
+
+  "alreadyHaveAccount": "هل لديك حساب بالفعل؟",
+  "signIn": "تسجيل الدخول",
+
+  "testimonialQuote": "ولكن يجب أن أوضح لك أن كل هذه الأفكار المغلوطة حول استنكار النشوة وتمجيد الألم نشأت بالفعل، وسأعرض لك التفاصيل كاملة.",
+  "testimonialName": "ليزلي ألكسندر",
+  "testimonialRole": "مهتمة بالموضة"
+}

@@ -1,0 +1,46 @@
+{
+  "pageTitle": "Checkout",
+  "breadcrumbHome": "Home",
+  "breadcrumbCart": "Shopping Cart",
+  "breadcrumbCheckout": "Checkout",
+
+  "payment": {
+    "selectMethod": "Select Payment Method",
+    "paypal": "PayPal",
+    "paypalEmail": "PayPal Email *",
+    "continuePaypal": "Continue with PayPal",
+
+    "visa": "Credit Card",
+    "cardHolder": "Card Holder Name *",
+    "cardNumber": "Card Number *",
+    "expiryDate": "Expiry Date *",
+    "cvv": "CVV *",
+    "saveCard": "Save card for future payments",
+    "confirmPayment": "Confirm Payment",
+
+    "googlePay": "Google Pay",
+    "googlePayEmail": "Google Pay Email *",
+    "continueGooglePay": "Continue with Google Pay",
+
+    "cod": "Cash on Delivery",
+    "fullName": "Full Name *",
+    "address": "Address *",
+    "phoneNumber": "Phone Number *",
+    "addNewCard": "Add New Card",
+    "addCard": "Add Card"
+  },
+
+  "orderSummary": {
+    "title": "Order Summary",
+    "items": "Items",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "taxes": "Taxes",
+    "coupon": "Coupon Discount",
+    "total": "Total"
+  },
+
+  "buttons": {
+    "confirmPayment": "Confirm Payment"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "page": {
+    "title": "Contact Us",
+    "breadcrumb": {
+      "home": "Home",
+      "contact": "Contact"
+    }
+  },
+  "form": {
+    "title": "Get in Touch",
+    "description": "Your email address will not be published. Required fields are marked *",
+    "fields": {
+      "name": {
+        "label": "Your Name *",
+        "placeholder": "e.g. John Doe"
+      },
+      "email": {
+        "label": "Email *",
+        "placeholder": "example@gmail.com"
+      },
+      "subject": {
+        "label": "Subject *",
+        "placeholder": "Enter the subject"
+      },
+      "message": {
+        "label": "Your Message *",
+        "placeholder": "Write here..."
+      }
+    },
+    "button": "Send Message"
+  },
+  "info": {
+    "address": {
+      "title": "Address",
+      "value": "4517 Washington Ave. Manchester, Kentucky 39495"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "phone": "Phone: +0123-456-789",
+      "email": "Email: example@gmail.com"
+    },
+    "openTime": {
+      "title": "Opening Hours",
+      "weekdays": "Monday - Friday: 10:00 - 20:00",
+      "weekend": "Saturday - Sunday: 11:00 - 18:00"
+    },
+    "stayConnected": {
+      "title": "Stay Connected"
+    }
+  }
+}

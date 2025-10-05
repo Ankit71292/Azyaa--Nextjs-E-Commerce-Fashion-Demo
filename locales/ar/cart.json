@@ -1,0 +1,37 @@
+{
+  "page": {
+    "title": "عربة التسوق",
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "cart": "عربة التسوق"
+    }
+  },
+  "cart": {
+    "header": {
+      "product": "المنتج",
+      "price": "السعر",
+      "quantity": "الكمية",
+      "subtotal": "الإجمالي"
+    },
+    "item": {
+      "color": "اللون",
+      "size": "المقاس",
+      "remove": "إزالة"
+    },
+    "coupon": {
+      "placeholder": "رمز الكوبون",
+      "apply": "تطبيق الكوبون",
+      "clear": "إفراغ عربة التسوق"
+    }
+  },
+  "summary": {
+    "title": "ملخص الطلب",
+    "items": "المنتجات",
+    "subtotal": "الإجمالي الفرعي",
+    "shipping": "الشحن",
+    "taxes": "الضرائب",
+    "discount": "خصم الكوبون",
+    "total": "الإجمالي",
+    "checkout": "إتمام عملية الشراء"
+  }
+}

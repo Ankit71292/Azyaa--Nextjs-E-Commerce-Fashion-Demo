@@ -1,0 +1,51 @@
+{
+  "page": {
+    "title": "اتصل بنا",
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "contact": "اتصل بنا"
+    }
+  },
+  "form": {
+    "title": "تواصل معنا",
+    "description": "لن يتم نشر بريدك الإلكتروني. الحقول الإلزامية محددة بـ *",
+    "fields": {
+      "name": {
+        "label": "اسمك *",
+        "placeholder": "مثال: محمد أحمد"
+      },
+      "email": {
+        "label": "البريد الإلكتروني *",
+        "placeholder": "example@gmail.com"
+      },
+      "subject": {
+        "label": "الموضوع *",
+        "placeholder": "أدخل الموضوع"
+      },
+      "message": {
+        "label": "رسالتك *",
+        "placeholder": "اكتب هنا..."
+      }
+    },
+    "button": "إرسال الرسالة"
+  },
+  "info": {
+    "address": {
+      "title": "العنوان",
+      "value": "4517 واشنطن أفينيو، مانشستر، كنتاكي 39495"
+    },
+    "contact": {
+      "title": "معلومات التواصل",
+      "phone": "الهاتف : +0123-456-789",
+      "email": "البريد : example@gmail.com"
+    },
+    "openTime": {
+      "title": "ساعات العمل",
+      "weekdays": "الاثنين - الجمعة : 10:00 - 20:00",
+      "weekend": "السبت - الأحد : 11:00 - 18:00"
+    },
+    "stayConnected": {
+      "title": "ابقَ على تواصل"
+    }
+  }
+}

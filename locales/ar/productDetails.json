@@ -1,0 +1,52 @@
+{
+  "page": {
+    "title": "تفاصيل المنتج",
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "shop": "المتجر",
+      "productDetails": "تفاصيل المنتج"
+    }
+  },
+  "product": {
+    "reviews": "تقييمات",
+    "price": {
+      "current": "السعر الحالي",
+      "original": "السعر الأصلي"
+    },
+    "description": "الوصف",
+    "color": "اللون",
+    "size": "المقاس",
+    "viewSizeGuide": "عرض دليل المقاسات",
+    "clear": "مسح",
+    "inStock": "متوفر في المخزون",
+    "addToCart": "أضف إلى السلة",
+    "buyNow": "اشترِ الآن",
+    "wishlist": "المفضلة"
+  },
+  "meta": {
+    "sku": "رمز المنتج",
+    "tags": "الوسوم",
+    "share": "مشاركة"
+  },
+  "tabs": {
+    "description": "الوصف",
+    "additionalInformation": "معلومات إضافية",
+    "review": "المراجعات"
+  },
+  "additionalInfo": {
+    "feature": "الميزة",
+    "description": "الوصف",
+    "material": "الخامة",
+    "size": "المقاس",
+    "color": "الألوان",
+    "countryOfOrigin": "بلد المنشأ",
+    "brand": "العلامة التجارية"
+  },
+  "reviews": {
+    "noReviews": "لا توجد مراجعات حتى الآن"
+  },
+  "related": {
+    "title": "منتجات ذات صلة",
+    "subtitle": "اكتشف المنتجات ذات الصلة"
+  }
+}

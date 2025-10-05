@@ -1,0 +1,26 @@
+{
+  "page" : {
+    "title" : "Order Completed",
+    "home" : "Home"
+   },
+  "orderCompletedTitle": "Your order is completed!",
+  "orderCompletedMessage": "Thank you. Your Order has been received.",
+
+  "orderId": "Order ID",
+  "paymentMethod": "Payment Method",
+  "transactionId": "Transaction ID",
+  "estimatedDeliveryDate": "Estimated Delivery Date",
+  "downloadInvoice": "Download Invoice",
+
+  "orderDetails": "Order Details",
+  "products": "Products",
+  "subTotal": "Sub Total",
+
+  "color": "Color",
+  "size": "Size",
+
+  "shipping": "Shipping",
+  "taxes": "Taxes",
+  "couponDiscount": "Coupon Discount",
+  "total": "Total"
+}

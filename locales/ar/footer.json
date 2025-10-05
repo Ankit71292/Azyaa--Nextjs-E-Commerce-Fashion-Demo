@@ -1,0 +1,30 @@
+{
+  "footer": {
+    "companyInfo": {
+      "description": "نحن متجر الكتروني متخصص في بيع الملابس، احدث التصميمات التي تخص الموضة للرجال والنساء, ملابس نسائية ورجالية عالية الجودة."
+    },
+    "links": {
+      "company": "الشركة",
+      "aboutUs": "من نحن",
+      "blog": "المدونة",
+      "careers": "الوظائف",
+      "contact": "اتصل بنا",
+      "services": "الخدمات",
+      "customerService": "خدمة العملاء",
+      "myAccount": "حسابي",
+      "trackOrder": "تتبع طلبك",
+      "faqs": "الأسئلة الشائعة",
+      "productSupport": "دعم المنتجات",
+      "ourInformation": "معلوماتنا",
+      "privacyPolicy": "سياسة الخصوصية",
+      "termsConditions": "الشروط والأحكام",
+      "returnPolicy": "سياسة الإرجاع",
+      "siteMap": "خريطة الموقع"
+    },
+    "bottom": {
+      "copyright": "حقوق النشر © 2024 موقع Azyaa. جميع الحقوق محفوظة",
+      "language": "العربية",
+      "currency": "دولار أمريكي"
+    }
+  }
+}

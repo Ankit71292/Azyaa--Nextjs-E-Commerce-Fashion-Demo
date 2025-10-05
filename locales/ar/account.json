@@ -1,0 +1,119 @@
+{
+  "page": {
+    "title": "حسابي",
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "account": "حسابي"
+    }
+  },
+  "tabs": {
+    "personalInformation": "المعلومات الشخصية",
+    "myOrders": "طلباتي",
+    "manageAddress": "إدارة العناوين",
+    "paymentMethod": "طرق الدفع",
+    "passwordManager": "إدارة كلمة المرور",
+    "logout": "تسجيل الخروج"
+  },
+  "personalInformation": {
+    "firstName": "الاسم الأول *",
+    "lastName": "اسم العائلة *",
+    "email": "البريد الإلكتروني *",
+    "phone": "رقم الهاتف *",
+    "gender": "الجنس *",
+    "male": "ذكر",
+    "female": "أنثى",
+    "update": "حفظ التغييرات",
+    "placeholder": {
+      "firstName": "أدخل اسمك الأول",
+      "lastName": "أدخل اسم عائلتك",
+      "email": "أدخل بريدك الإلكتروني",
+      "phone": "أدخل رقم هاتفك"
+    }
+  },
+  "orders": {
+    "title": "الطلبات ({{count}})",
+    "sortBy": "ترتيب حسب:",
+    "all": "الكل",
+    "priceLowHigh": "السعر: من الأقل إلى الأعلى",
+    "priceHighLow": "السعر: من الأعلى إلى الأقل",
+    "rating": "التقييم",
+    "orderId": "رقم الطلب",
+    "totalPayment": "إجمالي الدفع",
+    "paymentMethod": "طريقة الدفع",
+    "deliveredDate": "تاريخ التسليم",
+    "color": "اللون",
+    "size": "الحجم",
+    "quantity": "الكمية",
+    "estimatedDeliveryDate": "تاريخ التسليم المتوقع",
+    "acceptedMessage": "تم قبول طلبك",
+    "trackOrder": "تتبع الطلب",
+    "addReview": "إضافة تقييم",
+    "viewDetails": "عرض التفاصيل",
+    "cancelOrder": "إلغاء الطلب"
+  },
+  "address": {
+    "addNew": "إضافة عنوان جديد",
+    "firstName": "الاسم الأول *",
+    "firstNamePlaceholder": "أدخل اسمك الأول",
+    "lastName": "اسم العائلة *",
+    "lastNamePlaceholder": "أدخل اسم عائلتك",
+    "company": "اسم الشركة (اختياري)",
+    "country": "الدولة *",
+    "selectCountry": "اختر الدولة",
+    "street": "عنوان الشارع *",
+    "streetPlaceholder": "أدخل عنوان الشارع",
+    "city": "المدينة *",
+    "selectCity": "اختر المدينة",
+    "state": "الولاية *",
+    "selectState": "اختر الولاية",
+    "zip": "الرمز البريدي *",
+    "zipPlaceholder": "أدخل الرمز البريدي",
+    "phone": "رقم الهاتف *",
+    "phonePlaceholder": "أدخل رقم هاتفك",
+    "email": "البريد الإلكتروني *",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "addButton": "إضافة العنوان",
+    "edit": "تعديل",
+    "delete": "حذف",
+        "countries": {
+        "US": "الولايات المتحدة",
+        "CA": "كندا"
+    },
+    "states": {
+        "NY": "نيويورك",
+        "CA": "كاليفورنيا"
+    },
+    "cities": {
+        "NewYork": "نيويورك",
+        "LosAngeles": "لوس أنجلوس"
+    }
+  },
+  "payment": {
+    "addNew": "إضافة بطاقة ائتمان / خصم جديدة",
+    "cardHolder": "اسم حامل البطاقة *",
+    "cardHolderPlaceholder": "أدخل اسم حامل البطاقة",
+    "cardNumber": "رقم البطاقة *",
+    "cardNumberPlaceholder": "أدخل رقم البطاقة",
+    "expiryDate": "تاريخ الانتهاء *",
+    "cvv": "رمز CVV *",
+    "saveCard": "حفظ البطاقة لمدفوعات مستقبلية",
+    "addCard": "إضافة البطاقة",
+    "delete": "حذف",
+    "linkAccount": "ربط الحساب"
+  },
+  "password": {
+    "current": "كلمة المرور *",
+    "currentPlaceholder": "أدخل كلمة المرور الحالية",
+    "new": "كلمة المرور الجديدة *",
+    "newPlaceholder": "أدخل كلمة المرور الجديدة",
+    "confirm": "تأكيد كلمة المرور الجديدة *",
+    "confirmPlaceholder": "أدخل تأكيد كلمة المرور الجديدة",
+    "forgot": "هل نسيت كلمة المرور؟",
+    "update": "تحديث كلمة المرور"
+  },
+  "logout": {
+    "title": "تسجيل الخروج",
+    "confirmMessage": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+    "button": "نعم، تسجيل الخروج"
+  }
+}

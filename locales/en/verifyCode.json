@@ -1,0 +1,29 @@
+{
+  "success": {
+    "title": "Code Verified Successfully!",
+    "redirect": "Redirecting to reset password..."
+  },
+  "page": {
+    "title": "Verify Code",
+    "subtitle": "Please enter the code we just sent to email"
+  },
+  "form": {
+    "codeLabel": "Code *",
+    "button": {
+      "verifying": "Verifying...",
+      "verify": "Verify"
+    }
+  },
+  "resend": {
+    "text": "Didn't receive code?",
+    "button": {
+      "active": "Resend Code",
+      "disabled": "Resend Code ({{timer}}s)"
+    }
+  },
+  "testimonial": {
+    "quote": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+    "author": "Leslie Alexander",
+    "role": "Fashion Enthusiast"
+  }
+}

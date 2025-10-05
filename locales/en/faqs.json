@@ -1,0 +1,14 @@
+{
+  "pageTitle": "FAQs",
+  "breadcrumb": {
+    "home": "Home",
+    "faqs": "FAQs"
+  },
+  "categories": {
+    "general": "General Information",
+    "ordering": "Ordering & Shipping",
+    "returns": "Returns & Exchanges",
+    "payments": "Payments & Discounts",
+    "account": "Account & Profile"
+  }
+}

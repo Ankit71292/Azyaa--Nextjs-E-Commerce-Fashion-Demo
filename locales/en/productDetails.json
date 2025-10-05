@@ -1,0 +1,52 @@
+{
+  "page": {
+    "title": "Product Details",
+    "breadcrumb": {
+      "home": "Home",
+      "shop": "Shop",
+      "productDetails": "Product Details"
+    }
+  },
+  "product": {
+    "reviews": "Reviews",
+    "price": {
+      "current": "Current Price",
+      "original": "Original Price"
+    },
+    "description": "Description",
+    "color": "Color",
+    "size": "Size",
+    "viewSizeGuide": "View Size Guide",
+    "clear": "Clear",
+    "inStock": "In Stock",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "wishlist": "Wishlist"
+  },
+  "meta": {
+    "sku": "SKU",
+    "tags": "Tags",
+    "share": "Share"
+  },
+  "tabs": {
+    "description": "Description",
+    "additionalInformation": "Additional Information",
+    "review": "Review"
+  },
+  "additionalInfo": {
+    "feature": "Feature",
+    "description": "Description",
+    "material": "Material",
+    "size": "Size",
+    "color": "Colors",
+    "countryOfOrigin": "Country of Origin",
+    "brand": "Brand"
+  },
+  "reviews": {
+    "noReviews": "No reviews yet"
+  },
+  "related": {
+    "title": "Related Products",
+    "subtitle": "Discover related products"
+  }
+}

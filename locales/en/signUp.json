@@ -1,0 +1,31 @@
+{
+  "signUpTitle": "Sign Up",
+  "signUpDescription": "Fill your information below or register with your social account.",
+
+  "firstName": "First Name *",
+  "lastName": "Last Name *",
+  "email": "Email *",
+  "password": "Password *",
+
+  "firstNamePlaceholder": "Enter First Name",
+  "lastNamePlaceholder": "Enter Last Name",
+  "emailPlaceholder": "Enter Email Address",
+  "passwordPlaceholder": "Enter Password",
+
+  "termsAgreement": "Agree with",
+  "termsAndConditions": "Terms & Condition",
+  "privacyPolicy": "Privacy Policy",
+
+  "signUpButton": "Sign Up",
+  "creatingAccount": "Creating Account...",
+
+  "orSignUpWith": "or Sign Up with",
+  "signUpWithGoogle": "Sign Up With Google",
+
+  "alreadyHaveAccount": "Already have an account?",
+  "signIn": "Sign In",
+
+  "testimonialQuote": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+  "testimonialName": "Leslie Alexander",
+  "testimonialRole": "Fashion Enthusiast"
+}

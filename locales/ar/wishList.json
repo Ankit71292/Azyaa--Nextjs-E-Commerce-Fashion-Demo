@@ -1,0 +1,21 @@
+{
+  "pageTitle": "قائمة الأمنيات",
+  "breadcrumbHome": "الرئيسية",
+
+  "tableHeaders": {
+    "product": "المنتج",
+    "price": "السعر",
+    "dateAdded": "تاريخ الإضافة",
+    "stockStatus": "حالة المخزون"
+  },
+
+  "productColor": "اللون",
+  "productSize": "المقاس",
+  "addToCart": "أضف إلى السلة",
+
+  "wishlistLink": "رابط قائمة الأمنيات:",
+  "copy": "نسخ",
+
+  "clearWishlist": "مسح قائمة الأمنيات",
+  "addAllToCart": "إضافة الكل إلى السلة"
+}

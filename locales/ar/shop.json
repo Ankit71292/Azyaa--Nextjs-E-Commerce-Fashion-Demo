@@ -1,0 +1,53 @@
+{
+  "page": {
+    "title": "المتجر",
+    "breadcrumb": {
+      "home": "الرئيسية",
+      "shop": "المتجر"
+    }
+  },
+  "filters": {
+    "title": "خيارات التصفية",
+    "category": {
+      "title": "الفئة",
+      "man": "رجالي",
+      "woman": "نسائي",
+      "TShirts": "تيشرتات",
+      "handbags": "حقائب يد",
+      "jacketsCoats": "سترات ومعاطف",
+      "watches": "ساعات",
+      "hat": "قبعات"
+    },
+    "price": "السعر",
+    "color": {
+      "title": "اللون",
+      "black": "أسود",
+      "grey": "رمادي",
+      "brown": "بني",
+      "red": "أحمر",
+      "orange": "برتقالي",
+      "blue": "أزرق",
+      "pink": "وردي",
+      "white": "أبيض"
+    },
+    "size": "المقاس",
+    "filtersButton": "فلتر",
+    "activeFilter": "المرشح النشط:",
+    "clearAll": "مسح الكل"
+  },
+  "results": {
+    "showing": "عرض {{from}}-{{to}} من {{total}} نتيجة"
+  },
+  "sort": {
+    "label": "ترتيب حسب:",
+    "default": "الترتيب الافتراضي",
+    "priceLowHigh": "السعر: من الأقل إلى الأعلى",
+    "priceHighLow": "السعر: من الأعلى إلى الأقل",
+    "rating": "التقييم"
+  },
+  "pagination": {
+    "next": "التالي",
+    "prev": "السابق",
+    "ellipsis": "..."
+  }
+}

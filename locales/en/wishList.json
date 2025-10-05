@@ -1,0 +1,21 @@
+{
+  "pageTitle": "Wishlist",
+  "breadcrumbHome": "Home",
+
+  "tableHeaders": {
+    "product": "Product",
+    "price": "Price",
+    "dateAdded": "Date Added",
+    "stockStatus": "Stock Status"
+  },
+
+  "productColor": "Color",
+  "productSize": "Size",
+  "addToCart": "Add to Cart",
+
+  "wishlistLink": "Wishlist link:",
+  "copy": "Copy",
+
+  "clearWishlist": "Clear Wishlist",
+  "addAllToCart": "Add All to Cart"
+}
